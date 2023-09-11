@@ -1,4 +1,5 @@
 # URL Shortener 短網址產生器
+![image](https://github.com/patricksky006/URL_Shortener/blob/main/PrintScreen/Shorten_URL.png)
 
 ## 介紹
 
