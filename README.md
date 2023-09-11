@@ -1,6 +1,6 @@
 # URL Shortener 短網址產生器
 ![image](https://github.com/patricksky006/URL_Shortener/blob/main/PrintScreen/Shorten_URL.png)
-
+![image](https://github.com/patricksky006/URL_Shortener/blob/main/PrintScreen/index.png)
 ## 介紹
 
 將過長的網址縮成較短網址的「短網址產生器」
